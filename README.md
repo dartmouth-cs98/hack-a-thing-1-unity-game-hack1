@@ -4,7 +4,7 @@
 ## Description:
 We intended to work on the Hack-A-Thing 1 together, but we ended up following separate tutorials for react-native. Jasmine worked on a unity game and a photo recognition react-native app. 
 
-### Unity Game
+### Unity Game (in folder called 3D Beginner)
 Followed this tutorial: https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner
 
 Built a 3d game in Unity where the main character has to find his way out of a haunted house. Has moving ghosts and static gargoyles. If they catch you, you lose and have to start over. Added spooky lighting, colliders and rigidbodies on the enemies, and a display plane to display the win/lose messages
@@ -13,7 +13,7 @@ Built a 3d game in Unity where the main character has to find his way out of a h
 * What worked: game is done! 
 * What didn't work: Everything went pretty smoothly; I didn't try to add sound.
 
-### Photo Recognition React-Native App
+### Photo Recognition React-Native App (In folder called ReactTutorial)
 Followed this tutorial: https://codeburst.io/how-to-build-a-visual-recognition-mobile-app-in-2-days-with-react-native-and-clarifai-3801f0901704 
 
 Built a simple react-native app that brings up an image picker on the click of a button and sends the image to Clarifai to analyze. Displays what the picture is classified as.
